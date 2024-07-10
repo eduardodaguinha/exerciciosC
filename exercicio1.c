@@ -24,5 +24,6 @@ int main(void) {
     soma = n1 + n2 + n3 + n4;
     printf("A soma dos números digitados é %d.", soma);
 
+    system("pause");
     return 0;
 }
