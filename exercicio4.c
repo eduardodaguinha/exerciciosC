@@ -21,5 +21,6 @@ int main(void) {
     segundos = segundos - (60 - minutos);
     printf("Resultado da conversão: %d Hora(s), %d minuto(s) e %d segundo(s).", horas, minutos, segundos);
 
+    system("pause");
     return 0;
 }
