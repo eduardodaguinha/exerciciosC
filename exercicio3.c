@@ -21,5 +21,6 @@ int main(void) {
     novoSalario = salario + aumento;
     printf("O aumento foi de R$ %.2f, resultando em um novo salário de R$ %.2f.", aumento, novoSalario);
 
+    system("pause");
     return 0;
 }
