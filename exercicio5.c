@@ -27,5 +27,6 @@ int main(void) {
         printf("Os números são iguais.");
     }
 
+    system("pause");
     return 0;
 }
