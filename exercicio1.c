@@ -10,13 +10,13 @@ int main(void) {
     
     // Recebendo os valores
     printf("Oi, meu nome é Dudu e irei calcular a soma de 4 números inteiros!\n");
-    printf("Digite o primeiro número:\n");
+    printf("Digite o primeiro número: ");
     scanf("%d", &n1);
-    printf("Agora, digite o segundo número:\n");
+    printf("Agora, digite o segundo número: ");
     scanf("%d", &n2);
-    printf("Digite o terceiro número:\n");
+    printf("Digite o terceiro número: ");
     scanf("%d", &n3);
-    printf("Por fim, digite o quarto número:\n");
+    printf("Por fim, digite o quarto número: ");
     scanf("%d", &n4);
 
     // Realizando a soma
