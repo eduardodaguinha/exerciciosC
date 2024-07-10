@@ -22,5 +22,6 @@ int main(void) {
     media = (n1 + n2 + n3) / 3;
     printf("A média aritmética das notas informadas é %.1f.", media);
 
+    system("pause");
     return 0;
 }
