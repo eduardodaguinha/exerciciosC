@@ -20,10 +20,10 @@ int main(void) {
     if (n1 > n2) {
         printf("%.2f é maior que %.2f.", n1, n2);
     }
-     if (n2 > n1) {
+    if (n2 > n1) {
         printf("%.2f é maior que %.2f.", n2, n1);
     }
-     if (n1 == n2) {
+    if (n1 == n2) {
         printf("Os números são iguais.");
     }
 
